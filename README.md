@@ -15,7 +15,7 @@ You can install these dependencies using `pip`:
 
 1. Clone the repository:
 
-```git clone https://github.com/your_username/your_repository.git```
+```git clone https://github.com/mbahraoui/YOLOv4-Object-Detection-with-OpenCV```
 
 2. Download the pre-trained YOLOv4 weights and configuration files from the [official website](https://github.com/AlexeyAB/darknet#pre-trained-models) and place them in the root directory of your cloned repository.
 
